@@ -1,0 +1,13 @@
+/* menu/static/css/styles.css */
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.active {
+    font-weight: bold;
+}
